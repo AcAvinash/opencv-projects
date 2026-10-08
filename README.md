@@ -7,3 +7,4 @@ This repository contains my OpenCV learning projects using Python.
 | #  | Project                       | Status    |
 | -- | ----------------------------- | --------- |
 | 01 | Colored Image into Gray Image | Completed |
+| 02 |                               |           |
