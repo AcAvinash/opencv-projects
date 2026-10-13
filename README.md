@@ -11,3 +11,4 @@ This repository contains my OpenCV learning projects using Python.
 | 03 | Video Capture from Mobile Camera | Completed |
 | 04 | Screen Recorder                  | Completed |
 | 05 | Drawing lines in Opencv          | Completed |
+| 06 | Drawing text in Videos           | Completed |
