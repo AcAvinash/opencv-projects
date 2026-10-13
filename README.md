@@ -12,3 +12,4 @@ This repository contains my OpenCV learning projects using Python.
 | 04 | Screen Recorder                  | Completed |
 | 05 | Drawing lines in Opencv          | Completed |
 | 06 | Drawing text in Videos           | Completed |
+| 07 | Mouse binding event              | Completed |
