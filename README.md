@@ -4,7 +4,9 @@ This repository contains my OpenCV learning projects using Python.
 
 ## Projects
 
-| #  | Project                       | Status    |
-| -- | ----------------------------- | --------- |
-| 01 | Colored Image into Gray Image | Completed |
-| 02 | Video Frame Viewer & Recorder | Completed |
+| #  | Project                          | Status    |
+| -- | -------------------------------- | --------- |
+| 01 | Colored Image into Gray Image    | Completed |
+| 02 | Video Frame Viewer & Recorder    | Completed |
+| 03 | Video Capture from Mobile Camera | Completed |
+| 04 |                                  |           |
