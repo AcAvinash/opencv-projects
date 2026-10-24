@@ -13,3 +13,5 @@ This repository contains my OpenCV learning projects using Python.
 | 05 | Drawing lines in Opencv          | Completed |
 | 06 | Drawing text in Videos           | Completed |
 | 07 | Mouse binding event              | Completed |
+| 08 | Color Picker using trackbar      | Completed |
+| 09 | ROI(Region Of Interest)          | Completed |
